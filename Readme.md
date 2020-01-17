@@ -15,3 +15,6 @@ Vi har börjat med att koda. Vi har även gjort klart introduktionen på vårat 
 Imorgon ska vi lösa in våran arraylist och få till en random word selecter. Vi ska också göra så att player två kan selecta ord.
 Det där med gissningen och hur man ska få ihop det hela med osynliga ord och få dem att visas upp. 
 
+Dag 3
+Vi har försökt göra en random word selecter. Men vi vet inte riktigt hur det gick.
+Vi ska försöka att fixa random word selecter, men även method sakerna då de strular.
