@@ -18,3 +18,7 @@ Det där med gissningen och hur man ska få ihop det hela med osynliga ord och f
 Dag 3
 Vi har försökt göra en random word selecter. Men vi vet inte riktigt hur det gick.
 Vi ska försöka att fixa random word selecter, men även method sakerna då de strular.
+
+Dag 4 
+Vi har gjort väldigt mycket, allt har blivit bra nu. Vi har löst problemet med methods, men även random string array grejen.
+Vi har även gjort så att Stringen eller ordet är osynligt. Vi ska under nästa lektion lösa problemet med gissnings mekanismen. 
