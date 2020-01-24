@@ -22,3 +22,6 @@ Vi ska försöka att fixa random word selecter, men även method sakerna då de 
 Dag 4 
 Vi har gjort väldigt mycket, allt har blivit bra nu. Vi har löst problemet med methods, men även random string array grejen.
 Vi har även gjort så att Stringen eller ordet är osynligt. Vi ska under nästa lektion lösa problemet med gissnings mekanismen. 
+
+Dag 5 
+Vi håller fortfarande på med gissningsmekanismen. Vi har löst problemet med att göra om ordet till en String array, men vi måste på något sätt kunna gissa och få bokstäver att bli osynliga. Det är det vi ska försöka göra färdigt nästa gång.

@@ -1,4 +1,5 @@
 import java.io.*;
+import java.sql.SQLOutput;
 import java.util.*;
 public class HangaGubbe {
     public static void main(String[] args) {
@@ -12,6 +13,27 @@ public class HangaGubbe {
         for (int i = 0; i < x.length(); i++) {
             System.out.print("_ ");
         }
+
+        x = x.toLowerCase();
+        char ord[] = new char[x.length()];
+        for (int i = 0; i < x.length(); i++) {
+            ord[i] = x.charAt(i);
+        }
+
+        Scanner scanner = new Scanner(System.in);
+        String gissning = scanner.nextLine();
+        gissning = gissning.toLowerCase();
+        char xd;
+        boolean gissninginnehaller;
+        boolean xinnehaller;
+        xd = gissning.charAt(0);
+        gissning += xd;
+
+        gissninginnehaller = (gissning.indexOf(xd)) != -1;
+
+        xinnehaller = (x.indexOf(xd)) != -1;
+        if (xinnehaller == true)
+
     }
         static int Start () {
             Scanner scanner = new Scanner(System.in);
