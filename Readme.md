@@ -25,3 +25,6 @@ Vi har även gjort så att Stringen eller ordet är osynligt. Vi ska under näst
 
 Dag 5 
 Vi håller fortfarande på med gissningsmekanismen. Vi har löst problemet med att göra om ordet till en String array, men vi måste på något sätt kunna gissa och få bokstäver att bli osynliga. Det är det vi ska försöka göra färdigt nästa gång.
+
+Dag 6 
+Det har inte hänt så mycket mer.
